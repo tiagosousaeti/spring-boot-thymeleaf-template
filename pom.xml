@@ -5,7 +5,7 @@
 
 	<groupId>br.eti.tiagosousa</groupId>
 	<artifactId>springbootthymeleaf</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>war</packaging>
 
 	<name>spring-boot-thymeleaf</name>
@@ -15,7 +15,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.0.3.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
 
 	<properties>
@@ -59,6 +59,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
-
 </project>
